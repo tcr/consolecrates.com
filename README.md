@@ -1,3 +1,3 @@
 # consolecrates.com
 
-* **[List of console dimensions](/tcr/consolecrates.com/blob/master/dimensions.csv)**
+* **[List of console dimensions](/dimensions.csv)**
