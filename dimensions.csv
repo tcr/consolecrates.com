@@ -6,7 +6,7 @@ xbox-360,Xbox 360 S,270,264,75,http://www.product-reviews.net/2010/06/17/xbox-36
 xbox-360,Xbox 360 E,264,254,67,https://www.ifixit.com/Device/Xbox_360_E#Section_Technical_Specs
 xbox-one,Xbox One,333,274,79,https://www.digitaltrends.com/gaming/xbox-one-vs-xbox-one-s/
 xbox-one,Xbox One S,295,226,64,https://www.digitaltrends.com/gaming/xbox-one-vs-xbox-one-s/
-atari-2600,Atari 2600,346,,,
+atari-2600,Atari 2600,343,229,88,https://www.reddit.com/r/gamecollecting/comments/2cc35t/help_needed_trying_to_find_out_all_the_console/
 atari-2600,Atari 2600 Jr,267,,,
 atari-5200,Atari 5200,378,328,98,@tcr
 atari-7800,Atari 7800,292,,,
@@ -16,14 +16,15 @@ master-system,Master System II,256,172,,"https://console5.com/techwiki/images/1/
 genesis,Genesis 1,,,,
 genesis,Genesis 2,,,,
 genesis,Genesis 3,,,,
-saturn,Saturn,260,230,,http://segaretro.org/Sega_Saturn#Dimensions
-dreamcast,Dreamcast,190,195,,http://www.vgmuseum.com/systems/dc/
-turbografx-16,TurboGrafx-16,304,,,Estimate
-ps1,PlayStation,,,,
+genesis,CDX,127,,102,https://www.reddit.com/r/retrogaming/comments/3i4rfg/a_console_size_chart/
+saturn,Saturn,260,230,89,http://segaretro.org/Sega_Saturn#Dimensions
+dreamcast,Dreamcast,189,195,76,http://segaretro.org/Sega_Dreamcast
+turbografx-16,TurboGrafx-16,304,,51,https://www.reddit.com/r/retrogaming/comments/3i4rfg/a_console_size_chart/
+ps1,PlayStation,260,184,45,https://www.reddit.com/r/gamecollecting/comments/2cc35t/help_needed_trying_to_find_out_all_the_console/
 ps1,PSone,,,,
 ps2,PS2,,,,
-ps2,PS2 Slim,,,,
-ps3,PS3,324,256,,
+ps2,PS2 Slim,231,153,28,https://www.reddit.com/r/gamecollecting/comments/2cc35t/help_needed_trying_to_find_out_all_the_console/
+ps3,PS3,235,290,98,https://www.reddit.com/r/gamecollecting/comments/2cc35t/help_needed_trying_to_find_out_all_the_console/
 ps3,PS3 Slim,290,290,,
 ps3,PS3 Super Slim,290,230,,http://www.playstationlifestyle.net/2012/09/21/super-slim-ps3-size-compared-in-pictures-to-previous-playstation-3s/
 ps4,PS4,275,305,53,https://www.polygon.com/2016/9/8/12841606/ps4-pro-vs-ps4-slim-comparison-which-ps4-do-i-buy-guide
@@ -32,20 +33,22 @@ ps4,PS4 Slim,265,288,39,
 intv,Intellivision,405,,,
 intv,Intellivision II,254,165,70,http://www.atarimagazines.com/cva/v1n2/intellivision2.php
 coleco,Colecovision,380,,,
-neogeo,NeoGeo,325,,,
+neogeo,Neo Geo,325,,,
+neogeo,Neo Geo CD,,,,
+neogeo,Neo Geo CDZ,,,,
 cd32,CD32,311,,,
 nes,Nintendo,,,,
 snes,Super Nintendo,,,,
 snes,Super Nintendo Mini,,,,
-n64,Nintendo 64,,,,
+n64,Nintendo 64,260,190,73,https://www.reddit.com/r/gamecollecting/comments/2cc35t/help_needed_trying_to_find_out_all_the_console/
 gamecube,Gamecube,149,160,112,
-wii,Wii,,,,
+wii,Wii,157,216,44,https://www.reddit.com/r/gamecollecting/comments/2cc35t/help_needed_trying_to_find_out_all_the_console/
 wii,Wii mini,,,,
-wii-u,Wii U,,,,
+wii-u,Wii U,172,267,46,https://www.reddit.com/r/gamecollecting/comments/2cc35t/help_needed_trying_to_find_out_all_the_console/
 switch,Switch,,,,
 channel-f,Channel F,340,,,
 channel-f,Channel F II,292,,,@tcr
-3do,3DO,,,,
+3do,3DO,292,,101,https://www.reddit.com/r/retrogaming/comments/3i4rfg/a_console_size_chart/
 cdi,CDi,,,,
 astrocade,Astrocade,335,,,
 odyssey-2,Odyssey 2,337,330,108,http://www.vectronicscollections.org/consoles/odyssey2.php
